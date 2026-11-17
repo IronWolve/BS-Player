@@ -49,4 +49,5 @@ The Windows application is unsigned, so Windows may show a security prompt.
 
 ## License
 
-BS Player is licensed under [Apache License 2.0](LICENSE).
+BS Player is available for personal, non-commercial use under its
+[license](LICENSE). Copyright (c) 2026 IronWolve. All rights reserved.

@@ -957,7 +957,7 @@ impl PlayerApp {
                                 "This computer: {}",
                                 ISA_SUPPORT.get_or_init(crate::cpu::isa_support)
                             ));
-                            ui.label("Application source is licensed under Apache-2.0.");
+                            ui.label("Personal, non-commercial use only. See LICENSE for terms.");
                             ui.add_space(6.);
                             ui.label(RichText::new("Your profile").strong());
                             ui.add(egui::Label::new(self.profile.display().to_string()).wrap());

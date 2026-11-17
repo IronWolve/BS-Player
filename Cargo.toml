@@ -2,7 +2,7 @@
 name = "bs-player"
 version = "0.9.1"
 edition = "2024"
-license = "Apache-2.0"
+license-file = "LICENSE"
 description = "A desktop music and audiobook player with persistent listening progress"
 repository = "https://github.com/IronWolve/BS-Player"
 readme = "README.md"
