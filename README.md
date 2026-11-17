@@ -56,5 +56,5 @@ If FUSE is unavailable, run the AppImage with `--appimage-extract-and-run`.
 
 ## License
 
-BS Player is available for personal, non-commercial use under its
-[license](LICENSE). Copyright (c) 2026 IronWolve. All rights reserved.
+BS Player is available for personal, non-commercial use under its [license](LICENSE).<br>
+Copyright (c) 2026 IronWolve. All rights reserved.
