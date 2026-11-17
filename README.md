@@ -1,6 +1,8 @@
 # BS Player
 
-<img src="assets/bs-player-logo.png" alt="BS Player" width="260">
+<p align="center">
+  <img src="assets/bs-player-logo.png" alt="BS Player" width="260">
+</p>
 
 BS Player is a music, audiobook and internet-radio player built in Rust with a
 focus on speed, responsiveness and low memory usage. Your library, playlists,
