@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=BS Player
+Comment=Music and audiobook player
+Exec=bs-player %F
+Icon=bs-player
+Categories=AudioVideo;Audio;Player;
+Terminal=false
+MimeType=audio/mpeg;audio/flac;audio/ogg;audio/x-wav;audio/mp4;video/mp4;audio/x-matroska;video/x-matroska;audio/webm;video/webm;
+StartupWMClass=bs-player
