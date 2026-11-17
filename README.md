@@ -17,9 +17,6 @@ Captured with generated demo entries, silent test files and demo artwork.
 
 ![BS Player library and playback window](assets/screenshots/player.png)
 
-<details>
-<summary>Audiobook chapters and color themes</summary>
-
 ![Chapter picker](assets/screenshots/chapters.png)
 
 | Deep Plum | Polar Slate |
@@ -27,8 +24,6 @@ Captured with generated demo entries, silent test files and demo artwork.
 | <img src="assets/screenshots/theme-deep-plum.png" alt="Deep Plum theme" width="420"> | <img src="assets/screenshots/theme-polar-slate.png" alt="Polar Slate theme" width="420"> |
 | **Warm Charcoal** | **Parchment** |
 | <img src="assets/screenshots/theme-warm-charcoal.png" alt="Warm Charcoal theme" width="420"> | <img src="assets/screenshots/theme-parchment.png" alt="Parchment theme" width="420"> |
-
-</details>
 
 ## Features
 
