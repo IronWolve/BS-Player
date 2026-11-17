@@ -8,7 +8,7 @@ BS Player is a music, audiobook and internet-radio player built in Rust with a
 focus on speed, responsiveness and low memory usage. Your library, playlists,
 listening positions and bookmarks stay in a portable profile beside the app.
 
-Supports **Windows 10/11 (64-bit)**.
+Supports **Windows 10/11** and **Ubuntu 22.04 or newer (64-bit)**.
 
 ## Screenshots
 
@@ -46,6 +46,13 @@ Get the Windows package from
 to a writable folder and run `bs-player.exe`. Keep the adjacent `profile/`
 folder when updating; it contains your portable settings and listening data.
 The Windows application is unsigned, so Windows may show a security prompt.
+
+## Linux setup
+
+Download the AppImage from [GitHub Releases](https://github.com/IronWolve/BS-Player/releases),
+make it executable in its file properties, and run it. Settings and listening data
+are stored in `~/.local/share/bs-player` (or your configured XDG data directory).
+If FUSE is unavailable, run the AppImage with `--appimage-extract-and-run`.
 
 ## License
 
